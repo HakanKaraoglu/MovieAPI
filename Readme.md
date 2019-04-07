@@ -1,5 +1,8 @@
 # Node JS Movie API
 
+#Build Status
+[![Build Status](https://travis-ci.org/HakanKaraoglu/MovieAPI.svg?branch=master)](https://travis-ci.org/HakanKaraoglu/MovieAPI)
+
 Node JS Eğitimi
 
 # Movies
